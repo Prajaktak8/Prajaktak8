@@ -1,3 +1,4 @@
+![logo](https://github.com/Prajaktak8/Prajaktak8/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Prajakta Kadam</h1>
 <h3 align="center"> Software Developer!!!</h3>
 
